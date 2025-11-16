@@ -1,4 +1,4 @@
-# sukdo
+# sukdo (सुकडो)
 this is sukdo (custom build SUDOKU) so call it Sukdo and NOT Sudoku
 ## Where is its code
 - its code is available in our Private repository
